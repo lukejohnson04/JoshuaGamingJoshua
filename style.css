@@ -1,0 +1,40 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background-color: #cde5e6;
+}
+
+* {
+  	box-sizing: border-box;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+#contentdiv {
+	margin: auto;
+	width: 45%;
+	outline: black solid 2px;
+	background-color: #AECAAD;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 40px;
+
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.div1, .div2 {
+	display: inline-block;
+}
